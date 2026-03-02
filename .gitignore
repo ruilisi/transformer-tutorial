@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+*.pyc
+__pycache__/
+
+# Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
